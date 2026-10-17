@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-ce44fd8afb.tianyangjob.cn/sitemap.xml
